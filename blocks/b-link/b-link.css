@@ -1,0 +1,9 @@
+/*b-link*/
+
+.b-link {
+	border-bottom: 1px solid #05c;
+}
+
+.b-link:hover {
+	border-bottom: 1px solid #333;
+}
