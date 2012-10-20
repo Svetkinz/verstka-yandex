@@ -1,0 +1,21 @@
+/*b-list*/
+
+.b-list {
+
+}
+
+.b-list__item {
+	position: relative;
+}
+
+.b-list__item:before {
+	content: "";
+	position: absolute;
+	left: -15px;
+	top: 10px;
+	display: block;
+	width: 9px;
+	height: 1px;
+	background: #868686;
+	
+}

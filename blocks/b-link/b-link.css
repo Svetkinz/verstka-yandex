@@ -1,9 +1,15 @@
 /*b-link*/
 
 .b-link {
-	border-bottom: 1px solid #05c;
+	border-bottom: 1px solid #0070ED;
 }
 
 .b-link:hover {
-	border-bottom: 1px solid #333;
+	border-bottom: 1px solid #353434;
+}
+
+.b-link_type_pseudo {
+	border-bottom: 1px dotted #353434;
+	color: #353434;
+	cursor: pointer;
 }
