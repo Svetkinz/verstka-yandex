@@ -1,0 +1,70 @@
+/*b-browsers*/
+
+.b-browsers {
+	
+}
+
+.b-browsers__list {
+	font-size: 0;
+	line-height: 0;
+	width: 100%;
+	position: relative;
+}
+
+.b-browsers__item {
+	font: 16px/1.5 Arial, sans-serif;
+	display:inline-block;
+	_overflow:hidden;
+	*zoom:1;
+	*display:inline;
+	vertical-align: top;
+	width: 127px;
+	height: 140px;
+	overflow: hidden;
+	text-align: center;
+}
+
+.b-browsers__img {
+	display: block;
+}
+
+.b-browsers__name {
+	padding: 50px 0 0 0;
+    display:inline-block;
+    _overflow:hidden;
+    *zoom:1;
+    *display:inline;
+    vertical-align: top;
+}
+
+.b-browsers__item_type_ie {
+	position: absolute;
+	right: -130px;
+    padding-left: 64px;
+    width: 136px;
+}
+
+.b-browsers__name_type_ie {
+    position: absolute;
+    left: 0;
+}
+
+.b-browsers__name_color_blue {
+    color: #036DA3;
+}
+
+.b-browsers__name_color_green {
+    color: #22A12A;
+}
+
+.b-browsers__name_color_red {
+    color: #C10E0E;
+}
+
+.b-browsers__name_color_yellow {
+    color: #F2A414;
+}
+
+.b-browsers__name_color_grey {
+    color: #646464;
+}
