@@ -1,6 +1,4 @@
-/*b-column*/
-
-
+/*b-cols*/
 
 .b-cols {
 	column-count: 2;
@@ -9,6 +7,9 @@
 	column-gap: 95px;
 	-moz-column-gap: 95px;
 	-webkit-column-gap: 95x;
+    column-width: 374px;
+    -moz-column-width: 374px;
+    -webkit-column-width: 374px;
 	font: 16px/1.3 'PT Sans', sans-serif;
 	padding: 70px 0 0 0;
 	position: relative;
@@ -16,7 +17,6 @@
 
 .b-cols__tittle {
 	position: absolute;
-
 }
 
 .b-cols__p {

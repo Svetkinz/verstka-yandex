@@ -1,0 +1,15 @@
+/*b-stars*/
+
+
+
+.b-stars__link {
+    width: 17px;
+    height: 16px;
+    background: url(b-stars.png) 0 -17px;
+    display:inline-block;
+    _overflow:hidden;
+    *zoom:1;
+    *display:inline;
+    vertical-align: top;
+}
+
