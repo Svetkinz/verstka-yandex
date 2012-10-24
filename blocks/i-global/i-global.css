@@ -24,6 +24,7 @@ h2 {
 :visited
 {
     color: #0070ED;
+    text-decoration: none;
 }
 
 a:hover
