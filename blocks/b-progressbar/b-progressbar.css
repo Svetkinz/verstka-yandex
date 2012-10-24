@@ -6,13 +6,13 @@
 
 .b-progressbar__line {
     width: 210px;
-    text-align: center;
     height: 13px;
     border-color: #CECECE #E9E9E9 #F7F7F7;
     border-style: solid;
     border-width: 1px;
     border-radius: 7px;
     overflow: hidden;
+    position: relative;
 }
 
 .b-progressbar-count__value {
@@ -20,6 +20,7 @@
     z-index: 100;
     font: 9px/13px Verdana, sans-serif;
     color: #000;
+    left: 45%;
 }
 
 .b-progressbar-count__bg {
